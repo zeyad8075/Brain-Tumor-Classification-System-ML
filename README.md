@@ -46,3 +46,12 @@ The predicted tumor type and related information are displayed to the user
 🎯 Project Objective
 
 The goal of this project is to demonstrate how deep learning can be applied to medical image analysis, particularly in assisting the classification of brain tumors, while providing a practical and deployable solution suitable for academic and research purposes.
+
+Dataset
+Images: The dataset includes MRI scans, which are categorized based on the presence of different types of brain tumors, such as glioma, meningioma, and pituitary tumors. The images are available in JPG format
+
+Labels: Each image is labeled with the corresponding tumor type.
+
+Number of Samples: The dataset consists of 18279 images across 4 classes (tumor types).
+
+https://www.kaggle.com/datasets/rishiksaisanthosh/brain-tumour-classification
