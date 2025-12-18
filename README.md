@@ -1,9 +1,9 @@
-🧠 Brain Tumor Classification System using Deep Learning
+#🧠 Brain Tumor Classification System using Deep Learning
 
 This repository contains a complete end-to-end deep learning system for brain tumor image classification based on medical MRI images.
 The project focuses on training a convolutional neural network (CNN) model to accurately classify brain tumor types and deploying the trained model within a user-friendly interface for real-time prediction.
 
-📦 Repository Contents
+#📦 Repository Contents
 
 The repository includes the following main components:
 
@@ -33,7 +33,7 @@ Run the trained model on the uploaded image
 
 Display the predicted tumor class along with relevant classification information
 
-⚙️ System Workflow
+#⚙️ System Workflow
 
 The user uploads a brain MRI image through the interface
 
@@ -43,11 +43,11 @@ The trained model performs tumor classification
 
 The predicted tumor type and related information are displayed to the user
 
-🎯 Project Objective
+#🎯 Project Objective
 
 The goal of this project is to demonstrate how deep learning can be applied to medical image analysis, particularly in assisting the classification of brain tumors, while providing a practical and deployable solution suitable for academic and research purposes.
 
-Dataset
+#Dataset
 Images: The dataset includes MRI scans, which are categorized based on the presence of different types of brain tumors, such as glioma, meningioma, and pituitary tumors. The images are available in JPG format
 
 Labels: Each image is labeled with the corresponding tumor type.
